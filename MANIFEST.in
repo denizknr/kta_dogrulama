@@ -1,0 +1,2 @@
+include requirements.txt
+recursive-include kta_dogrulama *.json *.js *.css *.html *.py
